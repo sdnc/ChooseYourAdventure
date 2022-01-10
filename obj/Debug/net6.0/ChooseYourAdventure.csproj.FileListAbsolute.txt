@@ -1,0 +1,15 @@
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.csproj.AssemblyReference.cache
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.AssemblyInfoInputs.cache
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.AssemblyInfo.cs
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.csproj.CoreCompileInputs.cache
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ChooseYourAdventure
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ChooseYourAdventure.deps.json
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ChooseYourAdventure.runtimeconfig.json
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ChooseYourAdventure.dll
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ref/ChooseYourAdventure.dll
+/Users/saruna/Projects/ChooseYourAdventure/bin/Debug/net6.0/ChooseYourAdventure.pdb
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.dll
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ref/ChooseYourAdventure.dll
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.pdb
+/Users/saruna/Projects/ChooseYourAdventure/obj/Debug/net6.0/ChooseYourAdventure.genruntimeconfig.cache
